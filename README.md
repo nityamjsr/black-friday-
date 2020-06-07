@@ -31,14 +31,14 @@ SOLUTION:
   d)decision tree
   
 
-6)we recive he following accuracy on training set:
+6)we receive he following accuracy on training set:
   a)Accuracy Score of Linear regression on train set 11.829233894211866
   b)Accuracy Score of Decision Tree on train set 100.0
   c)Accuracy Score of Random Forests on train set 94.207451077798
   d)Accuracy Score of Gradient Boosting on train set 65.49517152859553
   
 
-7)we recive he following accuracy on testing set:
+7)we receive he following accuracy on testing set:
   a)Accuracy Score of Linear regression on test set 36.8210287243639
   b)Accuracy Score of Decision Tree on test set 57.69794167461
   c)Accuracy Score of Random Forests on test set 76.56294490750602
