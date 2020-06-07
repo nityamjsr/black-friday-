@@ -8,8 +8,14 @@ Website: https://datahack.analyticsvidhya.com/contest/black-friday/
 SOLUTION:
 
 1)Now The empty spaces are filled with max value. We also clean or fill empty spaces  of training set(columns:product_category_1,product_category_2)
+
+
 2)we encode all or categorical data into numerical form which is easy to handle
+
+
 3)usage of kfold along with PCA is done so as to split data into training set and testing set(PCA is one of the most used and famous dimensionality reduction methods.PCA is for speeding up machine learning algorithms, you are fitting PCA on the training set only. Principal component analysis (PCA)
+
+
 4) the data is then normalised to get the following benefits
   a)Greater overall database organization.
   b)Reduction of redundant data.
